@@ -1,11 +1,6 @@
 # Tech Freelance Platform
 
 > A full-stack MERN freelance marketplace where clients hire verified tech freelancers for web, mobile, and software projects. Built for the Indian market with ₹ pricing, real-time chat, and scalable architecture.
-
-![Dev](https://img.shields.io/badge/Stack-MERN-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=flat-square)
-
 ---
 
 
